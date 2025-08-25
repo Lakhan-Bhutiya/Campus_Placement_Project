@@ -1,14 +1,7 @@
-
+streamlit
 pandas
 numpy
-
-
 statsmodels
-
-
+altair
 matplotlib
 seaborn
-altair
-streamlit
-
-scikit-learn

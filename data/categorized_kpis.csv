@@ -1,0 +1,532 @@
+english_name,category
+TOTAL MITSUBISHI CARS RETAIL (LINES 2  THRU 4),Report Total/Subtotal
+Used Retail to Wholesale Ratio ,Percentage/Ratio
+TOTAL BODY SHOP DEPT. (LINES 30 THRU 35),Report Total/Subtotal
+UV Units Sold Per NV & UV Sales Rep.,Percentage/Ratio
+Warranty Pts. : Warranty Labour Sales,Currency:Warranty
+Sales $'s per Wholesale Invoice,Percentage/Ratio
+SUB-TOTAL PERSONNEL EXPENSES (LINES 17 THRU 26),Report Total/Subtotal
+Eclipse Cross,Model/Nameplate
+,Other
+"(
+SUVs
+)",Quantity:Units
+Active Customers,Count:People
+Avg. Technician Wage,Currency:Payroll/Compensation
+# of Productive Bays ,Quantity:Units
+Absentee Wages,Currency:Payroll/Compensation
+TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48) ,Report Total/Subtotal
+TOTAL SERVICE DEPARTMENT (LINES 7 THRU 13),Report Total/Subtotal
+TOTAL OPERATING EXPENSES (LINES 16 & 63),Report Total/Subtotal
+Warranty Rec. / P.D.I. - Mitsubishi,Currency:Warranty
+TOTAL MITSUBISHI FLEET,Report Total/Subtotal
+TOTAL MITSUBISHI SUV RETAIL (LINES 6 THRU 15),Report Total/Subtotal
+TOTAL MIT. NEW (LINES 18  THRU 20),Report Total/Subtotal
+Outlander,Model/Nameplate
+Outlander PHEV,Model/Nameplate
+Hours Available,Quantity:Hours
+Hours Sold,Quantity:Hours
+Adjustment - Cost of Labour Sales Body Shop,Currency:Cost of Sales
+Adjustment Cost of Labour Sales - Mechanical,Currency:Cost of Sales
+Adjustments - Used Vehicles Inventory,Quantity:Units
+Advertising (Institutional),Currency:Expense
+Advertising (Institutional) ,Currency:Expense
+Advisors,Count:People
+Allowance for Doubtful Accounts,Other
+Amortization - Leaseholds,Currency:Expense
+Apprentices,Count:People
+APR.,Percentage/Ratio
+(Assets Line 50 minus Liabilities Line 27),Accounting:BS
+AUG.,Other
+Bad Debts,Accounting:BS
+Bldgs. & Improv.,Other
+Body P&A RO,Other
+Body Shop,Department/Section
+Body Shop Materials,Department/Section
+Bonuses - Employees,Currency:Payroll/Compensation
+Charitable Donations,Currency:Expense
+Chemical / Other Income (CPO),Currency:Revenue/Sales
+Chemical / Other Income (Non CPO),Currency:Revenue/Sales
+Chemical / Other Income (Other Makes),Currency:Revenue/Sales
+Chemical Sales - New,Currency:Revenue/Sales
+Common Stock,Quantity:Units
+Company Vehicle Expense,Quantity:Units
+Company Vehicles,Quantity:Units
+Compensation - Clerical,Other
+Compensation - Finance,Department/Section
+Compensation - Insurance,Currency:Expense
+Compensation - Other Supervisor,Other
+Compensation - Owner,Other
+Compensation - Sales,Currency:Revenue/Sales
+Compensation - Service Contracts,Department/Section
+Compensation - Supervisors,Other
+Contracts in Transit,Other
+CP Effective Rate as a % of Posted Rate,Percentage/Ratio
+CPO P&A RO,Other
+CPO Warranty Labour - MITSUBISHI,Percentage/Ratio
+Current Portion of Long Term Debt,Accounting:BS
+Customer Body Shop Labour,Count:People
+Equip. M/S,Other
+Customer Deposits,Count:People
+Customer Mechanical Labour - MITSUBISHI,Count:People
+Data Processing,Other
+DCP P&A RO,Other
+DCP Service Contracts - New,Department/Section
+DCP Warranty Labour - MITSUBISHI,Percentage/Ratio
+Dealer Advertising Allowance,Currency:Expense
+Dealer Advertising Expense,Currency:Expense
+DEC.,Other
+Delivery Expense,Currency:Expense
+Demo Expense,Currency:Expense
+Depreciation - Bldgs. & Improvements,Currency:Expense
+Depreciation - Buildings & Improvements,Currency:Expense
+Depreciation of Lease & Rental Units,Quantity:Units
+Depreciation - Other,Currency:Expense
+Depreciation - Other ,Currency:Expense
+DEPT'L OPERATING PROFIT (LINE 2 MINUS 64),Currency:Revenue/Sales
+Sales Incentives Retail / Fleet,Currency:Revenue/Sales
+New Vehicles - Other Makes ,Quantity:Units
+Detailing,Other
+DISCONTINUED MODELS,Other
+Employee Benefits,Count:People
+Employee Bonuses Payable,Currency:Payroll/Compensation
+Equipment - Repairs & Rental,Count:People
+Equip. P/A,Other
+FEB.,Other
+Finance Income (CPO),Currency:Revenue/Sales
+Finance Income - New,Currency:Revenue/Sales
+Finance Income (Non CPO),Currency:Revenue/Sales
+Finance Income (Other Makes),Currency:Revenue/Sales
+Finance / Insurance Income Rec. - Current,Accounting:BS
+Finance / Insurance / Service Contracts,Currency:Expense
+Finance / Insur. Income Receivable - Deferred,Accounting:BS
+F & I Sales Reps.,Count:People
+F&I Sales Reps,Count:People
+Fixed Oper. Advert. Co-Op Credit,Other
+Fixed Oper. Advertising Co-Op Credit ,Currency:Expense
+Fixed Oper. Advertising / Promotion,Currency:Expense
+TOTAL P&A (LINES 16 THRU 27),Report Total/Subtotal
+Floor Plan Credits,Other
+Floor Plan Interest,Currency:Expense
+Freight & Express,Currency:Expense
+Furnitures & Fixtures,Other
+"Gas, Oil & Grease",Other
+Goods and Service Tax (GST) / Harmonized Sales Tax (HST),Currency:Revenue/Sales
+Goodwill Policy,Other
+Heat - Light - Power - Water,Other
+Hired YTD,Other
+Hired YTD ,Other
+Hours Sold per Technician,Percentage/Ratio
+Insurance - Buildings & Improvements,Currency:Expense
+Insurance Income (CPO),Currency:Revenue/Sales
+Insurance Income - New,Currency:Revenue/Sales
+Insurance Income (Non CPO),Currency:Revenue/Sales
+Insurance Income (Other Makes),Currency:Revenue/Sales
+Insurance - Other,Currency:Expense
+Insurance Payable,Accounting:BS
+Interest Payable,Accounting:BS
+"TOTAL FIXED OPERS. (LINES 14, 28 & 36)",Report Total/Subtotal
+Warranty Receivables - Other,Currency:Warranty
+Drawings,Other
+Interest - Real Estate - Mortgage,Currency:Expense
+Internal Body Shop Labour,Department/Section
+Internal Mechanical Labour,Other
+Internal P&A RO,Other
+Investments,Other
+JAN.,Other
+JUL.,Other
+JUN.,Other
+Laundry & Uniforms,Other
+Laundry & Uniforms ,Other
+Lease Buyout,Other
+Leasehold,Other
+Lease Vehicles,Quantity:Units
+Legal & Auditing,Currency:Expense
+Less: Charge Backs - New,Currency:Expense
+TOTAL,Report Total/Subtotal
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57),Report Total/Subtotal
+Less: Charge Backs - Used,Currency:Expense
+Manager(s),Other
+(Manufacturer Requirement),Other
+MAR.,Other
+"(
+Cars
+ )",Quantity:Units
+MAY,Other
+"Membership, Dues, Publications",Other
+"Membership, Dues, Publications ",Other
+( Mirage ),Model/Nameplate
+Mirage (5-Door),Model/Nameplate
+Miscellaneous,Other
+Miscellaneous ,Other
+Miscellaneous Assets,Accounting:BS
+Mortgages Payable,Accounting:BS
+New / Used Vehicle Inventory Expense,Quantity:Units
+New Vehicle Department,Quantity:Units
+Non-Automotive Inventory,Accounting:BS
+Non-Productive / Other,Other
+Non-Productive / Other ,Other
+Notes and Accts. Rec. - Officers / Owners / Employees,Count:People
+Notes Payable - Capital Loans,Accounting:BS
+NOV.,Other
+NV Target,Other
+NV Units Sold Retail Per NV Sales Rep.,Percentage/Ratio
+OCT.,Other
+Tire Inventory Over 12 Mo's (%),Percentage/Ratio
+Office Supplies & Stationery,Currency:Expense
+% of Labour Sales CPO Warranty,Currency:Warranty
+% of Labour Sales DCP,Percentage/Ratio
+# of Productive Bays,Quantity:Units
+Other,Other
+Other Expenses Payable,Accounting:BS
+Other Ext. Warranty - New,Percentage/Ratio
+Other Factory Rec. / Incentives - Mitsubishi,Accounting:BS
+Other F & I - New,Other
+Other Mechanical Labour,Other
+Other Non-Automotive Assets,Accounting:BS
+Other Notes / Accounts Receivable,Accounting:BS
+Other P&A,Other
+Other Salaries & Wages,Currency:Payroll/Compensation
+Other Supplies & Tools,Other
+Other Vehicles,Quantity:Units
+"(
+Cars
+)",Quantity:Units
+Outside Services,Department/Section
+Outside Services ,Department/Section
+OVER 30 Day,Other
+Over 30 days,Other
+Over 45 days,Other
+Over 90 Days,Other
+Owner(s),Other
+Owners' Bonuses Payable,Currency:Payroll/Compensation
+P&A Inventory Adjustment,Accounting:BS
+P&A Repair Order Mechanical,Count:People
+Parts & Accessories,Department/Section
+Parts & Accessories - Mitsubishi ,Department/Section
+Parts & Accessories - Other,Department/Section
+Parts & Accessories - Tires,Department/Section
+Payroll Payable,Currency:Payroll/Compensation
+Payroll Taxes,Currency:Payroll/Compensation
+Payroll Taxes ,Currency:Payroll/Compensation
+Pension Fund,Other
+Pension Fund ,Other
+Pension Fund Payable,Accounting:BS
+Petty Cash Fund / Cash On Hand,Other
+Postage,Currency:Expense
+Pre-Delivery - Mitsubishi,Other
+Preferred Stock,Quantity:Units
+Prepaid Insurance,Count:People
+Prepaid Other,Count:People
+Prepaid Taxes,Count:People
+Profit or Loss (Before Income Tax),Currency:Revenue/Sales
+Promotion,Other
+Receivables Floor Plan Credits,Accounting:BS
+Rec. Floor Plan Credits,Accounting:BS
+Rent,Currency:Expense
+Rental / Lease Units,Quantity:Units
+Rental Vehicles,Quantity:Units
+Repairs & Maintenance - Real Estate,Count:People
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58, 59 THRU 62)",Report Total/Subtotal
+TOTAL OPERATING EXPENSES (LINE 63) ,Report Total/Subtotal
+TOTAL MITSUBISHI CARS RETAIL (LINES 2 THRU 4),Report Total/Subtotal
+"Buildings & 
+Improvements",Other
+TOTAL NEW VEHICLE DEPT (LINES 21 & 30),Report Total/Subtotal
+"TOTAL MITSUBISHI RETAIL (LINES 5, 16 & 17)",Report Total/Subtotal
+TOTAL MIT. NEW (LINES 18 THRU 20),Report Total/Subtotal
+Used Vehicles - Retail (CPO),Quantity:Units
+SUB-TOTAL OTHER MAKES(LINES 55 THRU 58),Report Total/Subtotal
+"TOTAL F&I USED(LINES 49, 54, 59 & 60)",Report Total/Subtotal
+TOTAL USED VEHICLE DEPT.(LINES 43 & 61),Report Total/Subtotal
+TOTAL NEW & USED VEHICLE(LINES 31 & 62),Report Total/Subtotal
+Warranty Labour - MITSUBISHI,Percentage/Ratio
+Accounts Payable - Trade Creditors,Accounting:BS
+Certified Pre-Owned Vehicles - Mitsubishi,Quantity:Units
+"Gas, Oil, & Grease",Other
+Life Insurance - Cash Value,Currency:Expense
+New Vehicles - Mitsubishi,Quantity:Units
+Provincial Sales Tax,Currency:Revenue/Sales
+Receivable - Floor Plan Credits,Accounting:BS
+Reserve for Repossession Losses & Service Contract Losses,Count:People
+Certified Program Vehicles - Mitsubishi,Quantity:Units
+New Car - Mitsubishi,Other
+Used Vehicles - Other Makes ,Quantity:Units
+"(
+Trucks
+)",Other
+"TOTAL MITSUBISHI RETAIL (LINES 5,  16 & 17)",Report Total/Subtotal
+WHOLESALE EXCHANGES - MMSCAN (Dlr Trades),Currency:Revenue/Sales
+Technicians,Count:People
+Dividends,Other
+Used Vehicles,Quantity:Units
+Internal Labour Rate,Percentage/Ratio
+Sublet Repairs,Count:People
+Land - Auto Bus Only,Other
+Other Notes and Contracts Payable,Accounting:BS
+"Furniture & 
+Fixtures",Other
+Co. Veh.,Other
+Used Vehicles - Retail Reconditioning (CPO),Quantity:Units
+Leasehold ,Other
+Vehicle Lien Pay-Off,Quantity:Units
+Securities,Other
+"Service, Parts & Body Shop - Customers",Count:People
+Sales Incentive - Retail,Currency:Revenue/Sales
+Sales Incentive - Fleet,Currency:Revenue/Sales
+Taxes Payable - Sales,Accounting:BS
+Accounts Payable - Mitsubishi,Accounting:BS
+Cash in Bank,Other
+Cash in Bank - Trust Account(s),Other
+Taxes Payable - Payroll,Currency:Payroll/Compensation
+Taxes Payable - Income,Accounting:BS
+SEP.,Other
+"(
+Eclipse
+Cross
+)",Model/Nameplate
+New SUV - Mitsubishi,Other
+"(
+Outlander
+)",Model/Nameplate
+"(
+Out.
+PHEV
+)",Other
+"(
+RVR
+ )",Model/Nameplate
+Demonstrators,Other
+SUB-TOTAL SELLING EXPS. (LINES 5 THRU 15),Report Total/Subtotal
+Work in Process - Mechanical Labour,Other
+Work in Process - Body Shop Labour,Department/Section
+1 - 30 Days ,Other
+Retained Earnings,Other
+"(
+SUVs
+ )",Quantity:Units
+Vehicle Accounts - Customers,Quantity:Units
+Income Tax,Currency:Revenue/Sales
+Serv. Parts & Body Shop - Customers,Count:People
+"TOTAL NET WORTH
+(LINES 44 THRU 50 & LINE 65 MINUS 66)",Report Total/Subtotal
+SUB-TOTAL OCCUPANCY (LINES 50 THRU 57,Report Total/Subtotal
++ / -,Other
+Technicians ,Count:People
+Advisors ,Count:People
+SUB-TOTAL SELLING EXPENSES (LINES 5 THRU 15),Report Total/Subtotal
+TOTAL F&I NEW (LINES 23 THRU 29),Report Total/Subtotal
+TOTAL SALES,Report Total/Subtotal
+TOTAL NEW VEHICLE DEPT,Report Total/Subtotal
+TOTAL USED VEHICLE DEPT,Report Total/Subtotal
+TOTAL GROSS PROFIT,Report Total/Subtotal
+TOTAL USED RETAIL (LINES 33 THRU 38),Report Total/Subtotal
+TOTAL USED VEHICLES (LINES 39 THRU 42),Report Total/Subtotal
+Avail. Work Bay Hrs. / Bay,Quantity:Units
+Total Bays Available,Report Total/Subtotal
+Efficiency (Guide 110 - 125%),Percentage/Ratio
+Used Vehicle Department,Quantity:Units
+Taxes - Real Estate,Currency:Expense
+Productive / Non Productive Personnel,Count:People
+Productivity (Guide 85% +) ,Percentage/Ratio
+Taxes - Other,Currency:Expense
+Bank Overdraft,Other
+Sales Reps.,Count:People
+Service Department,Department/Section
+TOTAL SEMI-FIXED EXPENSES (LINES 28 THRU 48),Report Total/Subtotal
+Warranty Receivables - Mitsubishi,Currency:Warranty
+RVR,Model/Nameplate
+Travel & Entertainment,Other
+"SUB-TOTAL SELLING EXPENSES (LINES 5
+THRU 15)",Report Total/Subtotal
+"TOTAL OTHER ASSETS
+(LINES 62 THRU 66)",Report Total/Subtotal
+"TOTAL SEMI FIXED EXPENSE (LINES 28 THRU 48)
+",Report Total/Subtotal
+Telephone,Other
+Training,Other
+"NET ADDITIONS & DEDUCTS (PAGE 3 NET
+OF LINE 78)",Other
+Test Drives,Other
+BONUSES OWNERS,Currency:Payroll/Compensation
+INCOME TAX,Currency:Revenue/Sales
+NET PROFIT OR (LOSS) ,Currency:Revenue/Sales
+"SUB-TOTAL PERSONNEL EXPENSES  (LINES 17
+THRU 26)",Report Total/Subtotal
+"NET PROFIT BEFORE
+OWNERS BONUS & INCOME TAX 
+(LINES 65 & 66)",Report Total/Subtotal
+Body Shop ,Department/Section
+TOTAL SALES ,Report Total/Subtotal
+TOTAL BODY SHOP,Report Total/Subtotal
+ Bonuses - Employees,Currency:Payroll/Compensation
+Fixed Operations Advertising / Promotion,Percentage/Ratio
+Warranty Labour Rate,Percentage/Ratio
+"SUB-TOTAL PERSONNEL EXPENSES (LINES 17
+THRU 26)",Report Total/Subtotal
+"TOTAL FIXED OVERHEAD (LINES 27, 49, 58,
+59 THRU 62)",Report Total/Subtotal
+TOTAL OPERATING EXPENSES (LINES 16  & 63),Report Total/Subtotal
+Travel & Entertainment ,Other
+TOTAL SEMI-FIXED EXPENSES  (LINES 28 THRU 48),Report Total/Subtotal
+"TOTAL ADDITIONAL INCOME
+(LINES 71
+THRU 77)",Report Total/Subtotal
+"TOTAL ADDITIONAL DEDUCTIONS 
+(LINES 71
+THRU 77) ",Report Total/Subtotal
+SUB-TOTAL OCCUPANCY  (LINES 50 THRU 57),Report Total/Subtotal
+"TOTAL OPERATING EXPENSES (LINE 63)
+",Report Total/Subtotal
+ Taxes - Other,Currency:Expense
+Cash Discount / Interest Earned,Currency:Expense
+Cash Discount / Interest Paid,Currency:Expense
+Miscellaneous Income,Currency:Revenue/Sales
+Miscellaneous Deductions,Other
+Lease & Rental Income,Currency:Revenue/Sales
+Lease & Rental Expenses,Currency:Expense
+Documentary Fees,Other
+Gain on Disposal of Assets,Accounting:BS
+Loss on Disposal of Assets,Accounting:BS
+Reserved,Other
+Other MMSCAN Program Income,Currency:Revenue/Sales
+Other MMSCAN Program Expense,Currency:Expense
+TOTAL F & I NEW,Report Total/Subtotal
+Used Vehicles - Retail (Non CPO),Quantity:Units
+TOTAL USED RETAIL (LINES 33  THRU 38),Report Total/Subtotal
+Used Vehicles - Retail (Other Makes),Quantity:Units
+Used Vehicles - Wholesale,Quantity:Units
+Service Contracts (CPO),Department/Section
+Service Contracts (Non CPO),Department/Section
+SUB-TOTAL NON-CPO (LINES 50 THRU 53),Report Total/Subtotal
+TOTAL MITSUBISHI LABOUR (LINES 2 THRU 6),Report Total/Subtotal
+Service Contracts (Other Makes),Department/Section
+TOTAL NEW & USED VEHICLE(LINES  31 & 62),Report Total/Subtotal
+"TOTAL SERVICE DEPARTMENT (LINES 7
+ THRU 13)",Report Total/Subtotal
+SUB-TOTAL OTHER MAKES(LINES 55  THRU 58),Report Total/Subtotal
+Warranty P&A RO,Percentage/Ratio
+TOTAL F & I USED,Report Total/Subtotal
+Tire Storage,Other
+Retail Counter P&A,Other
+Wholesale P&A,Currency:Revenue/Sales
+Tires,Other
+Volume Discount,Other
+Warranty Claim Body Shop Labour,Percentage/Ratio
+Sublet Repairs Body Shop,Count:People
+"TOTAL NEW VEHICLES
+(LINES 21 THRU 25)",Report Total/Subtotal
+Sales Reps,Count:People
+"TOTAL CASH AND CONTRACTS
+(LINES 1 THRU 5)",Report Total/Subtotal
+"TOTAL RECEIVABLES
+(LINE 12 & LINES 13 THRU 19)",Report Total/Subtotal
+"TOTAL ASSETS 
+(LINES 50, 61 & 67)",Report Total/Subtotal
+"TOTAL OTHER CURRENT ASSETS
+(LINES 42 THRU 48)",Report Total/Subtotal
+"TOTAL FIXED ASSETS
+(LINES 53 THRU 60) ",Report Total/Subtotal
+"NET CUSTOMER RECEIVABLES
+(LINES 7 THRU 11)",Report Total/Subtotal
+"TOTAL USED VEHICLES
+(LINES 27 
+THRU 29)",Report Total/Subtotal
+"TOTAL INVENTORIES
+(LINES 26, 30 THRU 40)",Report Total/Subtotal
+"TOTAL CURRENT ASSETS
+(LINES 6, 20, 41 & 49)",Report Total/Subtotal
+"Serv., Parts & Body Shop - Customers",Count:People
+"NET RECEIVABLES 
+(LINES 78 & 79)",Report Total/Subtotal
+Other Factory Rec. / Incentives - Mit. ,Accounting:BS
+"TOTAL
+(LINES 71 THRU 77)",Report Total/Subtotal
+TOTAL ACCOUNTS & NOTES PAYABLE  (LINES 1 THRU 11),Report Total/Subtotal
+TOTAL LIABILITIES & NET WORTH (LINES 33 & 67),Report Total/Subtotal
+TOTAL LONG TERM DEBT (LINES 28 THRU 31),Report Total/Subtotal
+TOTAL CURRENT LIABILITIES (LINES 12 THRU 26),Report Total/Subtotal
+TOTAL LIABILITIES (LINES 27 & 32),Report Total/Subtotal
+TOTAL GROSS PROFIT - NEW VEHICLE DEPT.,Report Total/Subtotal
+TOTAL GROSS PROFIT - USED VEHICLE DEPT.,Report Total/Subtotal
+TOTAL SALES - PARTS & ACCESS DEPT.,Report Total/Subtotal
+TOTAL GROSS PROFIT - BODY SHOP DEPT.,Report Total/Subtotal
+TOTAL GROSS PROFIT - PARTS & ACCESS DEPT.,Report Total/Subtotal
+Used Vehicles - Retail Reconditioning (Non CPO),Quantity:Units
+Used Vehicles - Retail Reconditioning (Other Makes),Quantity:Units
+"TOTAL ALL DEPTS. (Pg 4, Ln 63 Pg 5, Ln 37)",Report Total/Subtotal
+Terminated YTD,Other
+0 - 3 Months ,Other
+1 - 30 Days,Other
+31 - 60 Days,Other
+12+ Months ,Other
+NET PROFIT / LOSS BEFORE INCOME TAXES  (LINES 67  LESS 68),Report Total/Subtotal
+4 - 6 Months,Other
+61 - 90 Days,Other
+61 - 90 Days ,Other
+7 - 12 Months ,Other
+Active Customers ,Count:People
+Total,Report Total/Subtotal
+TOTAL ,Report Total/Subtotal
+Clerical / Other,Other
+Writes,Other
+Sold ,Other
+Ups,Other
+CP Effective Rate,Percentage/Ratio
+Avg. Cost UV Mit. CPO Retailed,Currency:Expense
+% of Labour Sales Other,Percentage/Ratio
+UV Months Supply (Guide 1.5 months),Other
+UV Stock Turn (Guide >7) ,Percentage/Ratio
+Overhead Absorption %,Percentage/Ratio
+Capacity - Bay Hours Avail,Quantity:Hours
+# of Working Days ,Other
+Internal Hours Sold ,Quantity:Hours
+Wholesale Credit Line,Currency:Revenue/Sales
+Sold,Other
+Productive / Non-Productive Personnel,Count:People
+Productivity (Guide 85% +),Percentage/Ratio
+Break Even New & Used Units ,Quantity:Units
+Customer Labour Rate,Percentage/Ratio
+Missed Service Appointments,Department/Section
+Bay Utilization %,Percentage/Ratio
+Hours Clocked ,Quantity:Hours
+Customer Pay Hours Sold,Quantity:Hours
+% of Labour Sales CP,Percentage/Ratio
+Warranty Hours Sold,Percentage/Ratio
+# of Working Days,Other
+Capacity - Bay Hours Avail.,Quantity:Hours
+Missed Appointments,Other
+Tire Inventory Over 12 Mo's ($),Accounting:BS
+Hours Sold ,Quantity:Hours
+Used to New Retail Ratio,Percentage/Ratio
+Sales $'s per Retail Counter Invoice,Percentage/Ratio
+Advertising PNVR (Dealer Retail Sales),Percentage/Ratio
+Advertising PNVT (Dealer Target) ,Currency:Expense
+CP Pts. : CP Labour Sls. (Inc. Tires),Currency:Revenue/Sales
+Hours per CP RO,Percentage/Ratio
+% of Labour Sales Internal,Percentage/Ratio
+CP Labour Sales per Technician,Percentage/Ratio
+CP RO Count,Other
+% of Labour Sales Warranty,Currency:Warranty
+Hours Available ,Quantity:Hours
+DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64) ,Currency:Revenue/Sales
+Taxes Payable - Other,Accounting:BS
+Shareholder's Loans,Accounting:BS
+"DEPARTMENTAL OPERATING PROFIT (LINE 2 MINUS 64)
+",Currency:Revenue/Sales
+Liquidity in Dollars,Currency:Revenue/Sales
+Occupancy as a % of Company GP,Percentage/Ratio
+Guide,Other
+NV Vehicle Equity or (Conversion) ,Quantity:Units
+UV Units Sold Per UV Sales Rep.,Percentage/Ratio
+CP Labour Sales per RO,Percentage/Ratio
+Gross Stock Turn,Percentage/Ratio
+Net Working Capital Actual,Accounting:BS
+ NV Months Supply (Guide 2.5 months),Other
+Pts. Sls. per Customer RO (Inc. Tires),Percentage/Ratio
+Net Working Capital Ratio,Percentage/Ratio
+% Return on Sales (Before Income Tax),Percentage/Ratio
+Pts. Months Supply (Guide 1.5 mos),Other
+% Return on Operating Investment,Percentage/Ratio
+ UV Units Sold Per UV Sales Rep.,Percentage/Ratio
+Avg. Cost UV Mit. CPO in Inventory ,Accounting:BS

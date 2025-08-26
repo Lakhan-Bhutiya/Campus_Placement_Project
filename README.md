@@ -72,7 +72,7 @@ Exploratory analysis of KPIs.
 Charts comparing baseline vs adjusted plans.
 
 Live Demo (Streamlit Cloud)
-# 
+# https://campusplacementproject-nkucatm3eonhhdfdt3jy5.streamlit.app/
 
 Notes
 

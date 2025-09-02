@@ -3,7 +3,7 @@ Campus Placement Project — Dealership KPI Forecasting & Planning Tool
 This project was developed as part of my campus placement practical task.
 It focuses on time series forecasting for a car dealership’s key performance indicators (KPIs), with an interactive Streamlit goal-seeking planner.
 
-🔑 Project Highlights
+## 🔑 Project Highlights
 
 Data Cleaning & Preparation
 
@@ -25,7 +25,7 @@ Interactive Planning App (app.py)
 
 🎯 Target-Based Plan: Enter a profit target → app calculates required unit sales.
 
-📂 Project Structure
+## 📂 Project Structure
 
 Campus_Placement_Project/
 ├── data/
@@ -44,7 +44,7 @@ Clean UI with Streamlit + Altair charts.
 
 Visualization Notebook (visualization.ipynb)
 
-How to Run Locally
+## How to Run Locally
 
 Clone the repo
 
@@ -71,10 +71,11 @@ Exploratory analysis of KPIs.
 
 Charts comparing baseline vs adjusted plans.
 
-Live Demo (Streamlit Cloud)
-# https://campusplacementproject-nkucatm3eonhhdfdt3jy5.streamlit.app/
+🚀 **Live Demo**: [Streamlit Cloud App](https://campusplacementproject-nkucatm3eonhhdfdt3jy5.streamlit.app/)  
+![Demo Screenshot](assets/demo.png)
 
-Notes
+
+## Notes
 
 This is my first time series project — I’ve worked on ML projects before, but this one was new territory.
 

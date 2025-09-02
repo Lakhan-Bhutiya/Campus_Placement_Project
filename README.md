@@ -25,6 +25,8 @@ Interactive Planning App (app.py)
 
 🎯 Target-Based Plan: Enter a profit target → app calculates required unit sales.
 
+📂 Project Structure
+
 Campus_Placement_Project/
 ├── data/
 │   ├── FS-data-80475.csv          # Dealership dataset (sample)

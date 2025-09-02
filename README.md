@@ -27,17 +27,20 @@ Interactive Planning App (app.py)
 
 ## 📂 Project Structure
 
-Campus_Placement_Project/
-├── data/
-│   ├── FS-data-80475.csv          # Dealership dataset (sample)
-│   ├── categorized_kpis.csv       # KPI category mapping
-│   ├── trained_models.pkl         # Pre-trained models for Streamlit app
-├── app.py                         # Streamlit interactive app
-├── model_training.ipynb           # Model training steps
-├── visualization.ipynb            # Data visualization & EDA
-├── requirements.txt               # Python dependencies
-├── runtime.txt                    # Python version pin (Streamlit Cloud)
-└── README.md                      # Project documentation
+Campus_Placement_Project
+
+├── data/  
+│   ├── FS-data-80475.csv       # Dealership dataset (sample)  
+│   ├── categorized_kpis.csv    # KPI category mapping  
+│   ├── trained_models.pkl      # Pre-trained models for Streamlit app  
+
+├── app.py                      # Streamlit interactive app  
+├── model_training.ipynb        # Model training steps  
+├── visualization.ipynb         # Data visualization & EDA  
+├── requirements.txt            # Python dependencies  
+├── runtime.txt                 # Python version pin (Streamlit Cloud)  
+└── README.md                   # Project documentation  
+
 
 
 Clean UI with Streamlit + Altair charts.
